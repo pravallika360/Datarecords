@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__payflow-data__search_transfers",
+      "mcp__payflow-data__get_transfer",
+      "mcp__payflow-data__transfer_summary"
+    ],
+    "deny": [
+      "Read(server/data/**)",
+      "Bash",
+      "WebFetch",
+      "WebSearch"
+    ]
+  }
+}

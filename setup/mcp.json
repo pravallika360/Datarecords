@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "payflow-data": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["server/payflow_data_server.py"]
+    }
+  }
+}

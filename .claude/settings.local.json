@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "payflow-data"
+  ],
+  "enableAllProjectMcpServers": true
+}
